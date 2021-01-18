@@ -10,6 +10,10 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class TestServlet
  */
+
+//自作したサーブレット(作成した初期状態から未編集)
+//同時に作成したJSPファイルの影響を受けず(ページの見た目の変化がない)
+
 @WebServlet("/TestServlet")
 public class TestServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
