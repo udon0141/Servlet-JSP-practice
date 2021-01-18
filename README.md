@@ -1,2 +1,2 @@
 # Servlet-JSP-practice
-ServletとJSP
+ServletとJSPの練習ファイルをアップロードする場所
